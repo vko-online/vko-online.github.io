@@ -45,5 +45,5 @@ Hobby - reading Top 100 books of Guardian, watching Top 250 movies of IMDB
 Love cold water
 
 Some links
- - [@twitter](https://twitter.com/Tileukabiluly)
+ - [@twitter](https://twitter.com/medetonline)
  - [@stackoverflow](http://stackoverflow.com/users/2308005/medet-tleukabiluly)
