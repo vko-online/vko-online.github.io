@@ -1,8 +1,6 @@
 ---
 layout: post
-title: How i fill about things
+title: Outdoor
 ---
 
-## Nodejs rules
-
-> Biltong meatloaf pork chop, short loin ham pancetta beef shank ball tip sausage bresaola.
+## Coming soon
